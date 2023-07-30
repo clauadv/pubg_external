@@ -1,0 +1,19 @@
+# prerequisites
+.vs
+
+# compiled object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# precompiled headers
+*.gch
+*.pch
+*.ipch
+
+# compiled dynamic libraries
+*.dll
+
+# compiled static libraries
+*.lib
